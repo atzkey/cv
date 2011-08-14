@@ -1,0 +1,13 @@
+\item \textit{Ruby SMBClient}---a C library that allows to use Samba resources from Ruby, based on
+libsmbclient, but have object oriented interface like \textsc{File} and \textsc{Dir} native Ruby classes;
+\textsc{Net::SMB} and \textsc{OpenURI::SMB} implementations\\
+Jul, 2007 \hfill C, Ruby
+
+\item Design and implementation of a \textit{Common Internet File System Proxy}
+for multiple CIFS clients and a CIFS server with caching and locking
+support\\
+Sep, 2006--Jan, 2007 \hfill C, Linux
+
+\item \textit{Task Keeper}---software for team tasks management that allowing view and
+manage tasks shared on server\\
+Jul--Aug, 2006 \hfill C++, C, QT, GTK, PostgreSQL
